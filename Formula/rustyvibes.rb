@@ -6,6 +6,6 @@ class Rustyvibes < Formula
     version "1.0.0"
 
     def install
-        bin.install "espanso"
+        bin.install "rustyvibes"
     end
 end
