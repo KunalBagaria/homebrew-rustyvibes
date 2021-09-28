@@ -1,8 +1,8 @@
 class Rustyvibes < Formula
     desc "Global mechanical keyboard sound-effects CLI tool"
     homepage "https://github.com/kb24x7/rustyvibes"
-    url "https://github.com/kb24x7/rustyvibes/releases/download/v1.0.0/rustyvibes-mac.tar.gz"
-    sha256 "3502ef5cedda15b28db20265b9bcbecfe4a703652cdb83271883251f83b8c4f0"
+    url "https://github.com/kb24x7/rustyvibes/releases/download/v1.0.1/rustyvibes-mac.tar.gz"
+    sha256 "41d0e0116a9a9ade346ee4bd4ba776d5e133fff41c249ab10994605cf35aacc9"
     version "1.0.0"
 
     def install
